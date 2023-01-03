@@ -2,7 +2,7 @@
 ## Released
 | Name | Description | Supported |
 | --- | --- | :---: | 
-| listparse | parses through wordlists to create more refined and narrow wordlists | Yes |
+| [listparse](https://github.com/Kitchen-Kreations/listparse) | parses through wordlists to create more refined and narrow wordlists | Yes |
 
 ## In the Works
 | Name | Description | Expected Release |
