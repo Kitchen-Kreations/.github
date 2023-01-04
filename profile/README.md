@@ -11,4 +11,4 @@
 | globe | Port Scanner | Q1 2023 |
 | lfibust | LFI Buster | Q1 2023 |
 | GoDirby | Directory Buster | Q2 2023 |
-| GoFuzzUrSelf | Fuzzer | Q2 2023 |
+| GoFuzzUrSelf (GFUS) | Fuzzer | Q2 2023 |
