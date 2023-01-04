@@ -1,8 +1,8 @@
 # Kitchen Kreations
 ## Released
-| Name | Description | Supported |
+| Name | Description | Version | Supported |
 | --- | --- | :---: | 
-| [listparse](https://github.com/Kitchen-Kreations/listparse) | parses through wordlists to create more refined and narrow wordlists | Yes |
+| [listparse](https://github.com/Kitchen-Kreations/listparse) | parses through wordlists to create more refined and narrow wordlists | v1.0.0 | Yes |
 
 ## In the Works
 | Name | Description | Expected Release |
