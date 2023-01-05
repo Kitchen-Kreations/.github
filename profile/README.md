@@ -12,3 +12,4 @@
 | GoDirby | Directory Buster | Q2 2023 |
 | GoFuzzUrSelf (GFUS) | Fuzzer | Q2 2023 |
 | Viper Tool Kit (VTK) | A collection of the tools in viper separate from the framework | Q2 2023 |
+| PyTube (youtube downloader) | Python Script to download youtube videos | TBD |
