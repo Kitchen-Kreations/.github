@@ -6,6 +6,7 @@
 ## In the Works
 | Name | Description | Expected Release |
 | --- | --- | --- |
+| ViperC2-Framework Pre-Release | Pre-Release Command & Control Framework | Q1 2023 |
 | ViperC2-Framework | Command & Control Framework | Q3 2023 |
 | globe | Port Scanner | Q1 2023 |
 | lfibust | LFI Buster | Q1 2023 |
