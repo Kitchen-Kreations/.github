@@ -1,7 +1,7 @@
 ## Released
-| Name | Description | Version | Supported |
-| --- | --- | :---: | :---: |
-| [listparse](https://github.com/Kitchen-Kreations/listparse) | parses through wordlists to create more refined and narrow wordlists | v1.0.0 | Yes |
+| Name | Description | Version | Supported | Language |
+| --- | --- | :---: | :---: | --- |
+| [listparse](https://github.com/Kitchen-Kreations/listparse) | parses through wordlists to create more refined and narrow wordlists | v1.0.0 | Yes | Go |
 
 ## In the Works
 | Name | Description | Expected Release |
