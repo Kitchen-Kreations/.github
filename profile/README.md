@@ -7,11 +7,10 @@
 ## In the Works
 | Name | Description | Expected Release |
 | --- | --- | --- |
-| ViperC2-Framework Pre-Release | Pre-Release Command & Control Framework | Q1 2023 |
-| ViperC2-Framework | Command & Control Framework | Q3 2023 |
+| Bingo Pre-Release | Pre-Release Command & Control Framework | Q1 2023 |
+| Bingo | Command & Control Framework | Q3 2023 |
 | globe | Port Scanner | Q1 2023 |
 | quietly-go | SSH Brute Force Tool | Q1 2023 |
 | GoDirby | Directory Buster | Q2 2023 |
 | GoFuzzUrSelf (GFUS) | Fuzzer | Q2 2023 |
-| Viper Tool Kit (VTK) | A collection of the tools in viper separate from the framework | Q2 2023 |
 | PyTube (youtube downloader) | Python Script to download youtube videos | TBD |
