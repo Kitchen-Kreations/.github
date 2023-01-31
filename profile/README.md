@@ -1,4 +1,6 @@
 # Kitchen Kreations
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Kitchen-Kreations"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Kitchen-Kreations">
+
 ## Released
 | Name | Description | Version | Supported | Language |
 | --- | --- | :---: | :---: | --- |
