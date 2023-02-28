@@ -15,4 +15,3 @@
 | Bingo | Command & Control Framework | Q3 2023 |
 | GoDirby | Directory Buster | Q2 2023 |
 | GoFuzzUrSelf (GFUS) | Fuzzer | Q2 2023 |
-| PyTube (youtube downloader) | Python Script to download youtube videos | TBD |
