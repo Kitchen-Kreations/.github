@@ -11,7 +11,7 @@
 ## In the Works
 | Name | Description | Expected Release |
 | --- | --- | --- |
-| Bingo Pre-Release | Pre-Release Command & Control Framework | Q2 2023 |
 | Bingo | Command & Control Framework | Q3 2023 |
 | GoDirby | Directory Buster | Q2 2023 |
 | GoFuzzUrSelf (GFUS) | Fuzzer | Q2 2023 |
+| gobbler | Password Cracker | Q2 2023 |
