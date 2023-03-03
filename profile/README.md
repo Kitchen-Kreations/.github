@@ -4,7 +4,7 @@
 ## Released
 | Name | Description | Version | Supported | Language |
 | --- | --- | :---: | :---: | --- |
-| [listparse](https://github.com/Kitchen-Kreations/listparse) | parses through wordlists to create more refined and narrow wordlists | v1.0.0 | Yes | Go |
+| [listparse](https://github.com/Kitchen-Kreations/listparse) | parses through wordlists to create more refined and narrow wordlists | v2.0.1 | Yes | Go |
 | [globe](https://github.com/Kitchen-Kreations/globe) | port scanner | v1.0.0 | Yes | Go |
 | [mango](https://github.com/Kitchen-Kreations/mango) | ssh brute force tool | v1.0.0 | Yes | Go |
 
